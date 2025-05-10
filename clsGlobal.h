@@ -1,0 +1,6 @@
+#ifndef CLSGLOBAL_H_INCLUDED
+#define CLSGLOBAL_H_INCLUDED
+
+constexpr float GRAVITY = 0.25f;
+
+#endif // CLSGLOBAL_H_INCLUDED
